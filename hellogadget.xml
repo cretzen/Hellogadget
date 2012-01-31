@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="Hello Gadget">
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[     
+       Hello, Gadget!
+    ]]>
+  </Content>
+</Module>
